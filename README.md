@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 https://github.com/Prafulpatnecha/random_quotes_generator/assets/144161200/61d5246a-c5de-4ea8-ba60-94399b14e1c2
 
-<h2>➡ </h2>
+<h2>➡17.3 Random Quotes Generator with Different Colors </h2>
 <hr>
 <p>
 <a href ="">
