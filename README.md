@@ -28,3 +28,7 @@ https://github.com/Prafulpatnecha/random_quotes_generator/assets/144161200/61d52
 </a>
 </p>
 <hr>
+
+
+https://github.com/Prafulpatnecha/random_quotes_generator/assets/144161200/52068f03-3ca8-4c45-afd0-f0816b5aaad1
+
