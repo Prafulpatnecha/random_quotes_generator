@@ -24,6 +24,7 @@ https://github.com/Prafulpatnecha/random_quotes_generator/assets/144161200/61d52
 <a href ="">
 <img src="https://github.com/Prafulpatnecha/random_quotes_generator/blob/master/Screenshot_20240603_195823.png" width="22%" Height="35%">
 <img src="https://github.com/Prafulpatnecha/random_quotes_generator/blob/master/Screenshot_20240603_195837.png" width="22%" Height="35%">
+<img src="https://github.com/Prafulpatnecha/random_quotes_generator/blob/master/Screenshot_20240604_171814.png" width="22%" Height="35%">
 </a>
 </p>
 <hr>
